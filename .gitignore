@@ -1,11 +1,11 @@
 
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 
 
 !/[Aa]ssets/**/*.meta
@@ -51,4 +51,3 @@ sysinfo.txt
 *.unitypackage
 
 crashlytics-build.properties
-
