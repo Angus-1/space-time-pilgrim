@@ -17,3 +17,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DPlatformer/Scenes/MainMenuScene.unity
     guid: 57185a2dae9f2f04baf5629d7fd3a173
+  m_configObjects: {}
