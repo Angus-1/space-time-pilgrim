@@ -108,6 +108,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -490,6 +491,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      SpaceHero_1: 21300030
+      SpaceHero_0: 21300028
+      SpaceHero_7: 21300042
+      SpaceHero_6: 21300040
+      SpaceHero_9: 21300046
+      SpaceHero_8: 21300044
+      SpaceHero_12: 21300052
+      SpaceHero_5: 21300038
+      SpaceHero_2: 21300032
+      SpaceHero_13: 21300054
+      SpaceHero_3: 21300034
+      SpaceHero_10: 21300048
+      SpaceHero_4: 21300036
+      SpaceHero_11: 21300050
   spritePackingTag: All
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

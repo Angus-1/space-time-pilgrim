@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -832,6 +833,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      rousette1_20: 21300040
+      rousette1_11: 21300022
+      rousette1_7: 21300014
+      rousette1_22: 21300044
+      rousette1_3: 21300006
+      rousette1_0: 21300000
+      rousette1_9: 21300018
+      rousette1_15: 21300030
+      rousette1_17: 21300034
+      rousette1_21: 21300042
+      rousette1_8: 21300016
+      rousette1_18: 21300036
+      rousette1_16: 21300032
+      rousette1_19: 21300038
+      rousette1_29: 21300058
+      rousette1_5: 21300010
+      rousette1_26: 21300052
+      rousette1_12: 21300024
+      rousette1_2: 21300004
+      rousette1_13: 21300026
+      rousette1_24: 21300048
+      rousette1_1: 21300002
+      rousette1_6: 21300012
+      rousette1_10: 21300020
+      rousette1_14: 21300028
+      rousette1_28: 21300056
+      rousette1_25: 21300050
+      rousette1_27: 21300054
+      rousette1_23: 21300046
+      rousette1_4: 21300008
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
