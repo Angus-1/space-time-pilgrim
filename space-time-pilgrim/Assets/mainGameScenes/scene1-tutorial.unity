@@ -1125,7 +1125,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 597366808}
-  m_Layer: 10
+  m_Layer: 9
   m_Name: AttackPoint
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -4576,6 +4576,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5471727625956170572, guid: 450bf23aa5bfb1047b5c33dc52d4235a,
         type: 3}
+      propertyPath: inputTimer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471727625956170572, guid: 450bf23aa5bfb1047b5c33dc52d4235a,
+        type: 3}
       propertyPath: attackPoint
       value: 
       objectReference: {fileID: 597366808}
@@ -4584,6 +4589,16 @@ PrefabInstance:
       propertyPath: attackRange
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 5471727625956170572, guid: 450bf23aa5bfb1047b5c33dc52d4235a,
+        type: 3}
+      propertyPath: attack1Radius
+      value: 0.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5471727625956170572, guid: 450bf23aa5bfb1047b5c33dc52d4235a,
+        type: 3}
+      propertyPath: attack1HitBoxPos
+      value: 
+      objectReference: {fileID: 597366808}
     - target: {fileID: 5471727625956170572, guid: 450bf23aa5bfb1047b5c33dc52d4235a,
         type: 3}
       propertyPath: enemyLayers.m_Bits
